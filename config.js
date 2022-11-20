@@ -22,7 +22,7 @@ global.autorecording = false //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 // Other
-global.owner = ['79911505098','6283830960481','16505434800']
+global.owner = ['79911505098','6283830960481','+0']
 global.premium = ['6283830960481']
 global.packname = 'kyzeyn'
 global.author = '+7 991 150-50-98'
